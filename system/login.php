@@ -3,9 +3,7 @@
 <html>
 <head>
     <title>Cadastro Pensão</title>
-
-    <link rel="stylesheet" href="../webroot/css/style.css" />
-
+    <link rel="stylesheet" type="text/css" href="../webroot/css/style.css">
 </head>
 
 
