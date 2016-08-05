@@ -1,7 +1,7 @@
-	body
+@charset "UTF-8";
+body
 	{
 		background: url(../img/background-login.jpg);
 		background-repeat: no-repeat;
 		background-size: 100%;
-
 	}
