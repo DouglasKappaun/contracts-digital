@@ -1,0 +1,11 @@
+
+@charset 'UTF-8';
+
+	body
+	{
+		background-image: url('../webroot/img/background-login.jpg');
+		background-repeat: no-repeat;
+		background-size: 100%;
+		background: url('../webroot/img/background-login.jpg');
+	
+	}
