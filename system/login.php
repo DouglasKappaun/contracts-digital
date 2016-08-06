@@ -2,6 +2,7 @@
 
 <html>
 <head>
+    <meta charset="UTF-8" />
     <title>Cadastro Pensão</title>
     <link rel="stylesheet" type="text/css" href="../webroot/css/style.css">
 </head>
@@ -10,8 +11,6 @@
 <body>
 
 <div id="titulo">Galera da Pensão</div>
-
-
 
 <div id="login-box">
 
