@@ -1,0 +1,11 @@
+@charset "UTF-8";
+
+body.login{
+	background: url(../img/background-login.jpg);
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
+
+.link-register{
+	text-align: center;
+}
