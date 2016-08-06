@@ -1,14 +1,9 @@
 <!DOCTYPE HTML>
 
 <html>
-<head>
-    <meta charset="UTF-8" />
-    <title>Cadastro Pensão</title>
-    <link rel="stylesheet" type="text/css" href="../webroot/css/style.css">
-</head>
+<?php include "head.ctp"; ?>
 
-
-<body>
+<body class="login">
 
 <div id="titulo">Galera da Pensão</div>
 
@@ -28,8 +23,9 @@
 
         <div id="botoes">
             <div id="botao">Acessar</div>
+            <div id="lembrar-senha">
             <div id="lembrar-senha"><input type="checkbox"/> Lembrar senha</di>
-
+            <div class="link-register"><a href="register.php">Cadastrar-se</a></div>
             </div>
 
         </div>
