@@ -1,20 +1,20 @@
 <!DOCTYPE HTML>
 
 <html>
-<?php include "head.ctp"; ?>
+<?php include "head.php"; ?>
 
 <body class="login">
 
-<div id="titulo">Galera da Pensão</div>
+<div class="titulo">Galera da Pensão</div>
 
 <div id="login-box">
     <div id="login-box-interno">
         <div id="login-box-label">LOGIN</div>
         <div class="input-div">
-            <input class="input-email" type="text" placeholder="Digite seu e-mail..." />
+            <input type="text" placeholder="Digite seu e-mail..." />
         </div>
         <div class="input-div">
-            <input class= "input-password" type="password" placeholder="Digite a sua senha..." />
+            <input type="password" placeholder="Digite a sua senha..." />
         </div>
         <div id="botoes">
             <div id="botao">Acessar</div>
